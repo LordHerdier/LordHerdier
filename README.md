@@ -1,17 +1,6 @@
 <!--
   ============================================================
   LordHerdier/LordHerdier profile README
-  ------------------------------------------------------------
-  Setup checklist:
-  1. Create a repo named EXACTLY "LordHerdier" (must match your
-     GitHub username) — mark it Public. GitHub auto-detects this
-     and renders README.md above your pinned repos.
-  2. Drop this file in as README.md.
-  3. Replace every [FILL IN] marker below.
-  4. Spotify widget requires a one-time OAuth setup — see the
-     comment above that section for the two-minute walkthrough.
-  5. Everything else (stats cards, typing SVG, uptime) works
-     immediately with just your username swapped in.
   ============================================================
 -->
 
@@ -21,52 +10,38 @@
 
 </div>
 
-<br>
-
 <table align="center">
 <tr>
-<td width="100%">
+<td width="200%">
 
 ```
 // SYSTEM STATUS
 You can usually find me tinkering on my homelab, deep in a Crestron
 program, wiring up a mesh network that has no business existing, or
-getting cozy with a book. I also try to keep the classrooms on campus
-from catching fire — with the help of nobody, because I am the AV team.
+getting cozy with a lightnovel. I also try to keep the classrooms on campus
+from catching fire.
 ```
 
 </td>
 </tr>
 </table>
 
-<br>
-
 ## Loadout
 
 ```
 $ areas --list --sort=activity
 
-NIXOS-HOMELAB   ██████████████████░░  91/100
-CRESTRON-AV     █████████████████░░░  87/100
-EXODOOM         ████████████████░░░░  82/100
-LORA-MESH       ███████████░░░░░░░░░  55/100
-QYLOCK          █████████░░░░░░░░░░░  45/100
+NIXOS-HOMELAB  ██████████████████░░  91/100
+CRESTRON-AV        █████████████████░░░  87/100
+EXODOOM               ████████████████░░░░  82/100
+RE-ENGIN               ███████████░░░░░░░░░  55/100
+ONESHOT-RICE      █████████░░░░░░░░░░░  45/100
 ```
 
-<sub>bars are illustrative — swap in real numbers, or wire this block up to a
-scheduled GitHub Action that recomputes them from commit counts per repo</sub>
-
-<br>
-
 ## today's cron
-
 - [x] check in with system
 - [x] keep classroom AV alive for another day
 - [ ] survive the semester
-
-<sub>hand-edit this list, or template it — either works, the joke doesn't need automation</sub>
-
-<br>
 
 ## Custom fields
 
@@ -76,13 +51,9 @@ scheduled GitHub Action that recomputes them from commit counts per repo</sub>
 
 **Uptime**
 ```
-$ github-uptime --user=LordHerdier
-[FILL IN]s and counting...
+$ github-uptime --user=LordHerdier          
+327,486,926s and counting...
 ```
-<sub>Calculate this from your GitHub join date (visible on your profile
-page) — seconds since that date, formatted the same deadpan way as the
-"749,748,830s" field. No widget needed, just a fixed number you update
-occasionally, or a tiny Action that recomputes it daily.</sub>
 
 </td>
 <td valign="top" width="50%">
@@ -100,40 +71,19 @@ occasionally, or a tiny Action that recomputes it daily.</sub>
 </tr>
 </table>
 
-<br>
-
-<!--
-  ============================================================
-  SPOTIFY "NOW PLAYING" WIDGET
-  ------------------------------------------------------------
-  Recreates the STOMACH BOOK scrubber-bar look from your
-  pluralkit card. Uses novatorem/spotify-github-profile, which
-  is a free hosted service + a one-time OAuth authorization:
-
-  1. Go to https://github.com/novatorem/spotify-github-profile
-  2. Follow the "Deploy your own instance" OR use the shared
-     instance's login link in that repo's README to authorize
-     your Spotify account (read-only, just playback state).
-  3. It gives you back an image URL with a unique uid param —
-     paste that URL into the <img src> below, replacing the
-     placeholder.
-  ============================================================
--->
-
 ## Music
 
-<div align="center">
-<img src="https://novatorem-tzita4dm8-novatorem.vercel.app/api/spotify?uid=[FILL IN AFTER OAUTH SETUP]" alt="Spotify now playing" />
-</div>
-
-<br>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=herdiergaming&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=herdiergaming&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
 
 ## Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LordHerdier&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordHerdier&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=LordHerdier&include_all_commits=true&theme=aura" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=LordHerdier&layout=compact&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=LordHerdier&layout=compact&langs_count=6&theme=aura" />
 
 <br>
 
