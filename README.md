@@ -80,14 +80,16 @@ $ github-uptime --user=LordHerdier
 </p>
 
 ## Stats
+> ⚠️ **note:** I do a lot of development work on alternative sites, so stats aren't entirely reflective!
+
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LordHerdier&theme=radical&hide_border=true&background=0D1117" />
+<br>
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=LordHerdier&include_all_commits=true&theme=aura" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=LordHerdier&layout=compact&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=LordHerdier&layout=compact&langs_count=6&theme=aura" />
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LordHerdier&theme=radical&hide_border=true&background=0D1117" />
 
 </div>
 
