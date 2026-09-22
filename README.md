@@ -17,9 +17,8 @@
 ```
 // SYSTEM STATUS
 You can usually find me tinkering on my homelab, deep in a Crestron
-program, wiring up a mesh network that has no business existing, or
-getting cozy with a lightnovel. I also try to keep the classrooms on campus
-from catching fire.
+program, disassembling a binary for fun, or getting cozy with a lightnovel.
+I also try to keep the classrooms on campusfrom catching fire.
 ```
 
 > "You can take pry my em-dashes and oxford commas from my cold, dead body"
