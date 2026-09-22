@@ -33,11 +33,11 @@ from catching fire.
 ```
 $ areas --list --sort=activity
 
-NIXOS-HOMELAB  ██████████████████░░  91/100
-CRESTRON-AV        █████████████████░░░  87/100
-EXODOOM               ████████████████░░░░  82/100
-RE-ENGIN               ███████████░░░░░░░░░  55/100
-ONESHOT-RICE      █████████░░░░░░░░░░░  45/100
+EXODOOM        ██████████████████░░  91/100
+CRESTRON-AV    █████████████████░░░  87/100
+NIXOS-HOMELAB  ████████████████░░░░  82/100
+RE-ENGIN       ███████████░░░░░░░░░  55/100
+ONESHOT-RICE   █████████░░░░░░░░░░░  45/100
 ```
 
 ## Today's cron
