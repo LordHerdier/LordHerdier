@@ -22,6 +22,8 @@ getting cozy with a lightnovel. I also try to keep the classrooms on campus
 from catching fire.
 ```
 
+> "You can take pry my em-dashes and oxford commas from my cold, dead body"
+
 </td>
 </tr>
 </table>
