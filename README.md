@@ -40,7 +40,7 @@ RE-ENGIN               ███████████░░░░░░░░
 ONESHOT-RICE      █████████░░░░░░░░░░░  45/100
 ```
 
-## today's cron
+## Today's cron
 - [x] check in with system
 - [x] keep classroom AV alive for another day
 - [ ] survive the semester
