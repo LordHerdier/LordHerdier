@@ -63,9 +63,7 @@ $ github-uptime --user=LordHerdier
 **Stack**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Crestron](https://img.shields.io/badge/Crestron-1A1A1A?style=flat-square)
 
@@ -90,7 +88,7 @@ $ github-uptime --user=LordHerdier
 <br>
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=LordHerdier&include_all_commits=true&theme=aura" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=LordHerdier&layout=compact&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=LordHerdier&layout=compact&langs_count=6&theme=aura" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=LordHerdier&layout=compact&langs_count=6&theme=aura&exclude_repo=Learning" />
 
 
 </div>
