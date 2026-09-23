@@ -18,10 +18,10 @@
 // SYSTEM STATUS
 You can usually find me tinkering on my homelab, deep in a Crestron
 program, disassembling a binary for fun, or getting cozy with a lightnovel.
-I also try to keep the classrooms on campusfrom catching fire.
+I also try to keep the classrooms on campus from catching fire.
 ```
 
-> "You can take pry my em-dashes and oxford commas from my cold, dead body"
+> "You can pry my em-dashes and oxford commas from my cold, dead body"
 
 </td>
 </tr>
@@ -35,7 +35,7 @@ $ areas --list --sort=activity
 EXODOOM        ██████████████████░░  91/100
 CRESTRON-AV    █████████████████░░░  87/100
 NIXOS-HOMELAB  ████████████████░░░░  82/100
-RE-ENGIN       ███████████░░░░░░░░░  55/100
+RE-ENG         ███████████░░░░░░░░░  55/100
 ONESHOT-RICE   █████████░░░░░░░░░░░  45/100
 ```
 
@@ -44,7 +44,7 @@ ONESHOT-RICE   █████████░░░░░░░░░░░  45/
 - [x] keep classroom AV alive for another day
 - [ ] survive the semester
 
-## Custom fields
+## System info
 
 <table>
 <tr>
@@ -86,10 +86,7 @@ $ github-uptime --user=LordHerdier
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordHerdier&theme=radical&hide_border=true&background=0D1117" />
-<br>
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=LordHerdier&include_all_commits=true&theme=aura" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=LordHerdier&layout=compact&langs_count=6&theme=aura&exclude_repo=Learning" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=LordHerdier&layout=compact&langs_count=6&theme=transparent&hide_border=true&exclude_repo=Learning" />
 
 
 </div>
