@@ -27,38 +27,21 @@ I also try to keep the classrooms on campus from catching fire.
 </tr>
 </table>
 
-## Loadout
-
-```
-$ areas --list --sort=activity
-
-EXODOOM        ██████████████████░░  91/100
-CRESTRON-AV    █████████████████░░░  87/100
-NIXOS-HOMELAB  ████████████████░░░░  82/100
-RE-ENG         ███████████░░░░░░░░░  55/100
-ONESHOT-RICE   █████████░░░░░░░░░░░  45/100
-```
-
 ## Main Projects
 
 ### OS Dev
 
-- [ExoDoom](https://github.com/LordHerdier/ExoDoom) — Bare-metal exokernel that runs DOOM and other programs
+- [ExoDoom](https://github.com/LordHerdier/ExoDoom): Bare-metal exokernel that runs DOOM and other programs
 
 ### Unix Ricing
-- [nixos-config](https://github.com/LordHerdier/nixos-config) — Main repo for my machines
-- [dotfiles](https://github.com/LordHerdier/dotfiles) — Home dotfiles (slowly being cannibalized into nixos-config)
-- [hyprCRT-shader](https://github.com/LordHerdier/hyprCRT-shader) — Tunable CRT shader for Hyprland
+- [nixos-config](https://github.com/LordHerdier/nixos-config): Main repo for my machines
+- [dotfiles](https://github.com/LordHerdier/dotfiles): Home dotfiles (slowly being cannibalized into nixos-config)
+- [hyprCRT-shader](https://github.com/LordHerdier/hyprCRT-shader): Tunable CRT shader for Hyprland
 
 ### Pluralspace
-- [pluralspace-qol](https://github.com/LordHerdier/pluralspace-qol) — Browser userspace quality of life tweaks for Pluralspace.app
-- [pluralspace-oneshot-theme](https://github.com/LordHerdier/pluralspace-oneshot-theme) — Oneshot CSS theme for Pluralspace.app
-- [pluralspace-cli](https://github.com/LordHerdier/pluralspace-cli) — Command-line interface for Pluralspace.app 
-
-## Today's cron
-- [x] check in with system
-- [x] keep classroom AV alive for another day
-- [ ] survive the semester
+- [pluralspace-qol](https://github.com/LordHerdier/pluralspace-qol): Browser userspace quality of life tweaks for Pluralspace.app
+- [pluralspace-oneshot-theme](https://github.com/LordHerdier/pluralspace-oneshot-theme): Oneshot CSS theme for Pluralspace.app
+- [pluralspace-cli](https://github.com/LordHerdier/pluralspace-cli): Command-line interface for Pluralspace.app 
 
 ## System info
 
@@ -69,7 +52,7 @@ ONESHOT-RICE   █████████░░░░░░░░░░░  45/
 **Uptime**
 ```
 $ github-uptime --user=LordHerdier          
-327,486,926s and counting...
+331,106,413s and counting...
 ```
 
 </td>
@@ -87,6 +70,12 @@ $ github-uptime --user=LordHerdier
 </td>
 </tr>
 </table>
+
+
+## Today's cron
+- [x] check in with system
+- [x] keep classroom AV alive for another day
+- [ ] survive the semester
 
 
 
